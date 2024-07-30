@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Page</title>
+    <script>
+        function submitForm() {
+            var xhr = new XMLHttpRequest();
+            var file = document.getElementById('file').value;
+            var keyword = document.getElementById('keyword').value;
+            
+            
+            var postData = `key1=${encodeURIComponent(file)}&key2=${encodeURIComponent(keyword)}`;
+            xhr.open('POST', 'http://127.0.0.54:36354/search', true);
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            
+            
+            xhr.onreadystatechange = function () {
+                
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    
+                    document.getElementById('result').innerHTML = xhr.responseText;
+                }
+            };
+            
+            
+            xhr.send(postData);
+            
+            
+            return false; 
+        }
+    </script>
+</head>
+<body>
+    <h1>Search Page</h1>
+    <form onsubmit="return submitForm();">
+        <label for="file">File:</label>
+        <input type="text" id="file" name="file" placeholder="Enter file identifier">
+        <br>
+        <label for="keyword">Keyword:</label>
+        <input type="text" id="keyword" name="keyword" placeholder="Enter keyword">
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="result"></div>
+</body>
+</html>

@@ -1,0 +1,1385 @@
+2024-07-21 20:01:55 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 20:01:55 [INFO] [srv] Server has initialized!
+2024-07-21 20:02:11 [INFO] [srv] client[127.0.0.1:44518] is accepted!
+2024-07-21 20:02:11 [DEBUG] New client connected, total clients: 1
+2024-07-21 20:03:20 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 20:03:20 [INFO] [srv] Server has initialized!
+2024-07-21 20:03:30 [INFO] [srv] client[127.0.0.1:60964] is accepted!
+2024-07-21 20:03:30 [DEBUG] New client connected, total clients: 1
+2024-07-21 20:03:30 [INFO] [srv] client[127.0.0.1:60968] is accepted!
+2024-07-21 20:03:30 [DEBUG] New client connected, total clients: 2
+2024-07-21 20:03:30 [INFO] [srv] client[127.0.0.1:60974] is accepted!
+2024-07-21 20:03:30 [DEBUG] New client connected, total clients: 3
+2024-07-21 20:03:47 [INFO] [srv] SIGINT is coming!
+
+2024-07-21 20:15:53 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 20:15:53 [INFO] [srv] Server has initialized!
+2024-07-21 20:16:03 [INFO] [srv] client[127.0.0.1:40382] is accepted!
+2024-07-21 20:16:03 [DEBUG] New client connected, total clients: 1
+2024-07-21 20:16:04 [INFO] [srv] client[127.0.0.1:40394] is accepted!
+2024-07-21 20:16:04 [DEBUG] New client connected, total clients: 2
+2024-07-21 20:16:04 [INFO] [srv] client[127.0.0.1:40402] is accepted!
+2024-07-21 20:16:04 [DEBUG] New client connected, total clients: 3
+2024-07-21 20:16:33 [INFO] [srv] SIGINT is coming!
+
+2024-07-21 20:17:44 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 20:17:44 [INFO] [srv] Server has initialized!
+2024-07-21 20:17:54 [INFO] [srv] client[127.0.0.1:39126] is accepted!
+2024-07-21 20:17:54 [DEBUG] New client connected, total clients: 1
+2024-07-21 20:17:55 [INFO] [srv] client[127.0.0.1:39128] is accepted!
+2024-07-21 20:17:55 [DEBUG] New client connected, total clients: 2
+2024-07-21 20:17:55 [INFO] [srv] client[127.0.0.1:39136] is accepted!
+2024-07-21 20:17:55 [DEBUG] New client connected, total clients: 3
+2024-07-21 21:09:49 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 21:09:49 [INFO] [srv] Server has initialized!
+2024-07-21 21:09:53 [INFO] [srv] client[127.0.0.1:60388] is accepted!
+2024-07-21 21:09:53 [DEBUG] New client connected, total clients: 1
+2024-07-21 21:17:11 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 21:17:11 [INFO] [srv] Server has initialized!
+2024-07-21 21:18:00 [INFO] [srv] client[127.0.0.1:41204] is accepted!
+2024-07-21 21:18:00 [DEBUG] New client connected, total clients: 1
+2024-07-21 21:18:30 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 21:18:30 [INFO] [srv] Server has initialized!
+2024-07-21 21:18:40 [INFO] [srv] client[127.0.0.1:54688] is accepted!
+2024-07-21 21:18:40 [DEBUG] New client connected, total clients: 1
+2024-07-21 21:23:38 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 21:23:38 [INFO] [srv] Server has initialized!
+2024-07-21 21:23:48 [INFO] [srv] client[127.0.0.1:37210] is accepted!
+2024-07-21 21:23:48 [DEBUG] New client connected, total clients: 1
+2024-07-21 21:23:49 [INFO] [srv] client[127.0.0.1:37214] is accepted!
+2024-07-21 21:23:49 [DEBUG] New client connected, total clients: 2
+2024-07-21 21:23:49 [INFO] [srv] client[127.0.0.1:37220] is accepted!
+2024-07-21 21:23:49 [DEBUG] New client connected, total clients: 3
+2024-07-21 21:25:31 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 21:25:31 [INFO] [srv] Server has initialized!
+2024-07-21 21:25:41 [INFO] [srv] client[127.0.0.1:58996] is accepted!
+2024-07-21 21:25:41 [DEBUG] New client connected, total clients: 1
+2024-07-21 21:45:31 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 21:45:31 [INFO] [srv] Server has initialized!
+2024-07-21 21:45:41 [INFO] [srv] client[127.0.0.1:59638] is accepted!
+2024-07-21 21:45:41 [DEBUG] New client connected, total clients: 1
+2024-07-21 21:46:19 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-21 21:46:19 [INFO] [srv] Server has initialized!
+2024-07-21 21:46:21 [INFO] [srv] client[127.0.0.1:37158] is accepted!
+2024-07-21 21:46:21 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:18:00 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 09:18:00 [INFO] [srv] Server has initialized!
+2024-07-22 09:18:26 [INFO] [srv] client[127.0.0.1:49754] is accepted!
+2024-07-22 09:18:26 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:18:27 [INFO] [srv] client[127.0.0.1:49760] is accepted!
+2024-07-22 09:18:27 [DEBUG] New client connected, total clients: 2
+2024-07-22 09:18:27 [INFO] [srv] client[127.0.0.1:49772] is accepted!
+2024-07-22 09:18:27 [DEBUG] New client connected, total clients: 3
+2024-07-22 09:18:27 [INFO] [srv] client[127.0.0.1:49780] is accepted!
+2024-07-22 09:18:27 [DEBUG] New client connected, total clients: 4
+2024-07-22 09:22:18 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 09:22:18 [INFO] [srv] Server has initialized!
+2024-07-22 09:22:39 [INFO] [srv] client[127.0.0.1:36202] is accepted!
+2024-07-22 09:22:39 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:22:42 [INFO] [srv] client[127.0.0.1:36206] is accepted!
+2024-07-22 09:22:42 [DEBUG] New client connected, total clients: 2
+2024-07-22 09:23:09 [ERROR] bind error
+2024-07-22 09:23:19 [ERROR] bind error
+2024-07-22 09:23:25 [ERROR] bind error
+2024-07-22 09:23:34 [ERROR] bind error
+2024-07-22 09:23:48 [ERROR] bind error
+2024-07-22 09:24:19 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 09:24:19 [INFO] [srv] Server has initialized!
+2024-07-22 09:24:32 [INFO] [srv] client[127.0.0.1:41452] is accepted!
+2024-07-22 09:24:32 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:25:51 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 09:25:51 [INFO] [srv] Server has initialized!
+2024-07-22 09:26:01 [INFO] [srv] client[127.0.0.1:41268] is accepted!
+2024-07-22 09:26:01 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:26:02 [INFO] [srv] client[127.0.0.1:41272] is accepted!
+2024-07-22 09:26:02 [DEBUG] New client connected, total clients: 2
+2024-07-22 09:26:02 [INFO] [srv] client[127.0.0.1:41280] is accepted!
+2024-07-22 09:26:02 [DEBUG] New client connected, total clients: 3
+2024-07-22 09:26:02 [INFO] [srv] client[127.0.0.1:41286] is accepted!
+2024-07-22 09:26:02 [DEBUG] New client connected, total clients: 4
+2024-07-22 09:26:43 [ERROR] bind error
+2024-07-22 09:28:00 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 09:28:00 [INFO] [srv] Server has initialized!
+2024-07-22 09:28:14 [INFO] [srv] client[127.0.0.1:57278] is accepted!
+2024-07-22 09:28:14 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:39:02 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 09:39:02 [INFO] [srv] Server has initialized!
+2024-07-22 09:39:15 [INFO] [srv] client[127.0.0.1:54800] is accepted!
+2024-07-22 09:39:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:39:15 [INFO] [srv] client[127.0.0.1:54804] is accepted!
+2024-07-22 09:39:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:40:35 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 09:40:58 [ERROR] bind error
+2024-07-22 09:41:42 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 09:41:42 [INFO] [srv] Server has initialized!
+2024-07-22 09:41:55 [INFO] [srv] client[127.0.0.1:55180] is accepted!
+2024-07-22 09:41:55 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:42:15 [INFO] [srv] client[127.0.0.1:42430] is accepted!
+2024-07-22 09:42:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:42:15 [INFO] [srv] client[127.0.0.1:42440] is accepted!
+2024-07-22 09:42:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:55:16 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 09:55:16 [INFO] [srv] Server has initialized!
+2024-07-22 09:55:27 [INFO] [srv] client[127.0.0.1:57978] is accepted!
+2024-07-22 09:55:27 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:55:28 [INFO] [srv] client[127.0.0.1:56038] is accepted!
+2024-07-22 09:55:28 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:57:02 [INFO] [srv] client[127.0.0.1:48204] is accepted!
+2024-07-22 09:57:02 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:59:04 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 09:59:04 [INFO] [srv] Server has initialized!
+2024-07-22 09:59:18 [INFO] [srv] client[127.0.0.1:50472] is accepted!
+2024-07-22 09:59:18 [DEBUG] New client connected, total clients: 1
+2024-07-22 09:59:20 [INFO] [srv] client[127.0.0.1:50482] is accepted!
+2024-07-22 09:59:20 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:10:14 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 10:10:14 [INFO] [srv] Server has initialized!
+2024-07-22 10:10:48 [INFO] [srv] client[127.0.0.1:56978] is accepted!
+2024-07-22 10:10:48 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:10:49 [INFO] [srv] client[127.0.0.1:44458] is accepted!
+2024-07-22 10:10:49 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:11:09 [INFO] [srv] client[127.0.0.1:44316] is accepted!
+2024-07-22 10:11:09 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:11:09 [INFO] [srv] client[127.0.0.1:44328] is accepted!
+2024-07-22 10:11:09 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:11:15 [INFO] [srv] client[127.0.0.1:44338] is accepted!
+2024-07-22 10:11:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:15:52 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 10:15:52 [INFO] [srv] Server has initialized!
+2024-07-22 10:16:03 [INFO] [srv] client[127.0.0.1:37716] is accepted!
+2024-07-22 10:16:03 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:16:04 [INFO] [srv] client[127.0.0.1:37726] is accepted!
+2024-07-22 10:16:04 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:18:09 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 10:18:09 [INFO] [srv] Server has initialized!
+2024-07-22 10:18:24 [INFO] [srv] client[127.0.0.1:43186] is accepted!
+2024-07-22 10:18:24 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:18:30 [INFO] [srv] client[127.0.0.1:35620] is accepted!
+2024-07-22 10:18:30 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:19:01 [INFO] [srv] client[127.0.0.1:49888] is accepted!
+2024-07-22 10:19:01 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:22:41 [ERROR] bind error
+2024-07-22 10:22:55 [ERROR] bind error
+2024-07-22 10:24:09 [ERROR] bind error
+2024-07-22 10:24:19 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 10:24:19 [INFO] [srv] Server has initialized!
+2024-07-22 10:24:30 [INFO] [srv] client[127.0.0.1:33588] is accepted!
+2024-07-22 10:24:30 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:31:57 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 10:31:57 [INFO] [srv] Server has initialized!
+2024-07-22 10:34:06 [INFO] [srv] client[127.0.0.1:53702] is accepted!
+2024-07-22 10:34:06 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:07 [INFO] [srv] client[127.0.0.1:53710] is accepted!
+2024-07-22 10:34:07 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:07 [INFO] [srv] client[127.0.0.1:53724] is accepted!
+2024-07-22 10:34:07 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:07 [INFO] [srv] client[127.0.0.1:53736] is accepted!
+2024-07-22 10:34:07 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:15 [INFO] [srv] client[127.0.0.1:57880] is accepted!
+2024-07-22 10:34:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:15 [INFO] [srv] client[127.0.0.1:57892] is accepted!
+2024-07-22 10:34:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:15 [INFO] [srv] client[127.0.0.1:57908] is accepted!
+2024-07-22 10:34:15 [DEBUG] New client connected, total clients: 2
+2024-07-22 10:34:15 [INFO] [srv] client[127.0.0.1:57918] is accepted!
+2024-07-22 10:34:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:18 [INFO] [srv] client[127.0.0.1:49892] is accepted!
+2024-07-22 10:34:18 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:18 [INFO] [srv] client[127.0.0.1:49902] is accepted!
+2024-07-22 10:34:18 [DEBUG] New client connected, total clients: 2
+2024-07-22 10:34:18 [INFO] [srv] client[127.0.0.1:49912] is accepted!
+2024-07-22 10:34:18 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:20 [INFO] [srv] client[127.0.0.1:49924] is accepted!
+2024-07-22 10:34:20 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:34:20 [INFO] [srv] client[127.0.0.1:49928] is accepted!
+2024-07-22 10:34:20 [DEBUG] New client connected, total clients: 2
+2024-07-22 10:34:27 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 10:57:34 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 10:57:34 [INFO] [srv] Server has initialized!
+2024-07-22 10:57:47 [INFO] [srv] client[127.0.0.1:35102] is accepted!
+2024-07-22 10:57:47 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:57:53 [INFO] [srv] client[127.0.0.1:56800] is accepted!
+2024-07-22 10:57:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:02 [INFO] [srv] client[127.0.0.1:53370] is accepted!
+2024-07-22 10:58:02 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:02 [INFO] [srv] client[127.0.0.1:53386] is accepted!
+2024-07-22 10:58:02 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:02 [INFO] [srv] client[127.0.0.1:53400] is accepted!
+2024-07-22 10:58:02 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:08 [INFO] [srv] client[127.0.0.1:53404] is accepted!
+2024-07-22 10:58:08 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:08 [INFO] [srv] client[127.0.0.1:41552] is accepted!
+2024-07-22 10:58:08 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:08 [INFO] [srv] client[127.0.0.1:41560] is accepted!
+2024-07-22 10:58:08 [DEBUG] New client connected, total clients: 2
+2024-07-22 10:58:08 [INFO] [srv] client[127.0.0.1:41562] is accepted!
+2024-07-22 10:58:08 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:10 [INFO] [srv] client[127.0.0.1:41566] is accepted!
+2024-07-22 10:58:10 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:10 [INFO] [srv] client[127.0.0.1:41580] is accepted!
+2024-07-22 10:58:10 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:12 [INFO] [srv] client[127.0.0.1:41584] is accepted!
+2024-07-22 10:58:12 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:13 [INFO] [srv] client[127.0.0.1:41600] is accepted!
+2024-07-22 10:58:13 [DEBUG] New client connected, total clients: 1
+2024-07-22 10:58:13 [INFO] [srv] client[127.0.0.1:41608] is accepted!
+2024-07-22 10:58:13 [DEBUG] New client connected, total clients: 2
+2024-07-22 10:58:13 [INFO] [srv] client[127.0.0.1:41620] is accepted!
+2024-07-22 10:58:13 [DEBUG] New client connected, total clients: 1
+2024-07-22 11:06:23 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 11:06:23 [INFO] [srv] Server has initialized!
+2024-07-22 11:06:34 [INFO] [srv] client[127.0.0.1:34698] is accepted!
+2024-07-22 11:06:34 [DEBUG] New client connected, total clients: 1
+2024-07-22 11:06:34 [INFO] [srv] client[127.0.0.1:34700] is accepted!
+2024-07-22 11:06:34 [DEBUG] New client connected, total clients: 1
+2024-07-22 11:06:34 [INFO] [srv] client[127.0.0.1:34708] is accepted!
+2024-07-22 11:06:34 [DEBUG] New client connected, total clients: 1
+2024-07-22 11:06:54 [INFO] [srv] client[127.0.0.1:49914] is accepted!
+2024-07-22 11:06:54 [DEBUG] New client connected, total clients: 1
+2024-07-22 11:07:09 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 13:42:57 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 13:42:57 [INFO] [srv] Server has initialized!
+2024-07-22 13:43:59 [INFO] [srv] client[127.0.0.1:36036] is accepted!
+2024-07-22 13:43:59 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:43:59 [INFO] [srv] client[127.0.0.1:36044] is accepted!
+2024-07-22 13:43:59 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:43:59 [INFO] [srv] client[127.0.0.1:36058] is accepted!
+2024-07-22 13:43:59 [DEBUG] New client connected, total clients: 2
+2024-07-22 13:44:03 [INFO] [srv] client[127.0.0.1:34996] is accepted!
+2024-07-22 13:44:03 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:44:04 [INFO] [srv] client[127.0.0.1:35000] is accepted!
+2024-07-22 13:44:04 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:44:04 [INFO] [srv] client[127.0.0.1:35010] is accepted!
+2024-07-22 13:44:04 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:44:04 [INFO] [srv] client[127.0.0.1:35018] is accepted!
+2024-07-22 13:44:04 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:44:05 [INFO] [srv] client[127.0.0.1:35032] is accepted!
+2024-07-22 13:44:05 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:44:05 [INFO] [srv] client[127.0.0.1:35044] is accepted!
+2024-07-22 13:44:05 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:44:05 [INFO] [srv] client[127.0.0.1:35056] is accepted!
+2024-07-22 13:44:05 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:44:07 [INFO] [srv] client[127.0.0.1:35058] is accepted!
+2024-07-22 13:44:07 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:44:07 [INFO] [srv] client[127.0.0.1:35066] is accepted!
+2024-07-22 13:44:07 [DEBUG] New client connected, total clients: 2
+2024-07-22 13:44:31 [INFO] [srv] client[127.0.0.1:49178] is accepted!
+2024-07-22 13:44:31 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:44:36 [INFO] [srv] client[127.0.0.1:52790] is accepted!
+2024-07-22 13:44:36 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:45:35 [INFO] [srv] client[127.0.0.1:50168] is accepted!
+2024-07-22 13:45:35 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:45:41 [INFO] [srv] client[127.0.0.1:50184] is accepted!
+2024-07-22 13:45:41 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:53:09 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 13:53:09 [INFO] [srv] Server has initialized!
+2024-07-22 13:53:20 [INFO] [srv] client[127.0.0.1:36514] is accepted!
+2024-07-22 13:53:20 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:53:21 [INFO] [srv] client[127.0.0.1:36520] is accepted!
+2024-07-22 13:53:21 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:53:40 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 13:55:18 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 13:55:18 [INFO] [srv] Server has initialized!
+2024-07-22 13:55:30 [INFO] [srv] client[127.0.0.1:43336] is accepted!
+2024-07-22 13:55:30 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:55:45 [INFO] [srv] client[127.0.0.1:41670] is accepted!
+2024-07-22 13:55:45 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:56:12 [INFO] [srv] client[127.0.0.1:32942] is accepted!
+2024-07-22 13:56:12 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:56:19 [INFO] [srv] client[127.0.0.1:32954] is accepted!
+2024-07-22 13:56:19 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:56:25 [INFO] [srv] client[127.0.0.1:50316] is accepted!
+2024-07-22 13:56:25 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:56:30 [INFO] [srv] client[127.0.0.1:50324] is accepted!
+2024-07-22 13:56:30 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:56:31 [INFO] [srv] client[127.0.0.1:50338] is accepted!
+2024-07-22 13:56:31 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:56:31 [INFO] [srv] client[127.0.0.1:50352] is accepted!
+2024-07-22 13:56:31 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:56:31 [INFO] [srv] client[127.0.0.1:50368] is accepted!
+2024-07-22 13:56:31 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:56:31 [INFO] [srv] client[127.0.0.1:50370] is accepted!
+2024-07-22 13:56:31 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:56:31 [INFO] [srv] client[127.0.0.1:50380] is accepted!
+2024-07-22 13:56:31 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:57:03 [INFO] [srv] client[127.0.0.1:49594] is accepted!
+2024-07-22 13:57:03 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:57:44 [INFO] [srv] client[127.0.0.1:56060] is accepted!
+2024-07-22 13:57:44 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:58:00 [INFO] [srv] client[127.0.0.1:37714] is accepted!
+2024-07-22 13:58:00 [DEBUG] New client connected, total clients: 1
+2024-07-22 13:58:42 [ERROR] bind error
+2024-07-22 13:58:48 [ERROR] bind error
+2024-07-22 14:07:06 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 14:07:06 [INFO] [srv] Server has initialized!
+2024-07-22 14:07:35 [INFO] [srv] client[127.0.0.1:48758] is accepted!
+2024-07-22 14:07:35 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:07:41 [INFO] [srv] client[127.0.0.1:48770] is accepted!
+2024-07-22 14:07:41 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:07:47 [INFO] [srv] client[127.0.0.1:51714] is accepted!
+2024-07-22 14:07:47 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:32:27 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 14:32:27 [INFO] [srv] Server has initialized!
+2024-07-22 14:32:45 [INFO] [srv] client[127.0.0.1:52604] is accepted!
+2024-07-22 14:32:45 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:32:49 [INFO] [srv] client[127.0.0.1:41976] is accepted!
+2024-07-22 14:32:49 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:32:57 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 14:33:30 [ERROR] bind error
+2024-07-22 14:33:57 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 14:33:57 [INFO] [srv] Server has initialized!
+2024-07-22 14:34:07 [INFO] [srv] client[127.0.0.1:44798] is accepted!
+2024-07-22 14:34:07 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:34:14 [INFO] [srv] client[127.0.0.1:51270] is accepted!
+2024-07-22 14:34:14 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:34:14 [INFO] [srv] client[127.0.0.1:51282] is accepted!
+2024-07-22 14:34:14 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:34:14 [INFO] [srv] client[127.0.0.1:51294] is accepted!
+2024-07-22 14:34:14 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:34:29 [INFO] [srv] client[127.0.0.1:51226] is accepted!
+2024-07-22 14:34:29 [DEBUG] New client connected, total clients: 1
+2024-07-22 14:34:35 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 15:40:45 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 15:40:45 [INFO] [srv] Server has initialized!
+2024-07-22 15:41:02 [INFO] [srv] client[127.0.0.1:40184] is accepted!
+2024-07-22 15:41:02 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:41:19 [INFO] [srv] client[127.0.0.1:39456] is accepted!
+2024-07-22 15:41:19 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:41:20 [INFO] [srv] client[127.0.0.1:39460] is accepted!
+2024-07-22 15:41:20 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:41:20 [INFO] [srv] client[127.0.0.1:39476] is accepted!
+2024-07-22 15:41:20 [DEBUG] New client connected, total clients: 2
+2024-07-22 15:41:23 [INFO] [srv] client[127.0.0.1:39486] is accepted!
+2024-07-22 15:41:23 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:41:24 [INFO] [srv] client[127.0.0.1:39502] is accepted!
+2024-07-22 15:41:24 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:41:24 [INFO] [srv] client[127.0.0.1:39504] is accepted!
+2024-07-22 15:41:24 [DEBUG] New client connected, total clients: 2
+2024-07-22 15:41:24 [INFO] [srv] client[127.0.0.1:39510] is accepted!
+2024-07-22 15:41:24 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:41:25 [INFO] [srv] client[127.0.0.1:39512] is accepted!
+2024-07-22 15:41:25 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:41:25 [INFO] [srv] client[127.0.0.1:39522] is accepted!
+2024-07-22 15:41:25 [DEBUG] New client connected, total clients: 2
+2024-07-22 15:43:41 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 15:43:41 [INFO] [srv] Server has initialized!
+2024-07-22 15:43:54 [INFO] [srv] client[127.0.0.1:46034] is accepted!
+2024-07-22 15:43:54 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:44:01 [INFO] [srv] client[127.0.0.1:58834] is accepted!
+2024-07-22 15:44:01 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:44:01 [INFO] [srv] client[127.0.0.1:58842] is accepted!
+2024-07-22 15:44:01 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:46:08 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 15:46:08 [INFO] [srv] Server has initialized!
+2024-07-22 15:46:18 [INFO] [srv] client[127.0.0.1:51390] is accepted!
+2024-07-22 15:46:18 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:53:49 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 15:53:49 [INFO] [srv] Server has initialized!
+2024-07-22 15:53:59 [INFO] [srv] client[127.0.0.1:46606] is accepted!
+2024-07-22 15:53:59 [DEBUG] New client connected, total clients: 1
+2024-07-22 15:53:59 [INFO] [srv] client[127.0.0.1:46608] is accepted!
+2024-07-22 15:53:59 [DEBUG] New client connected, total clients: 2
+2024-07-22 16:08:18 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:08:18 [INFO] [srv] Server has initialized!
+2024-07-22 16:08:28 [INFO] [srv] client[127.0.0.1:47240] is accepted!
+2024-07-22 16:08:28 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:08:33 [INFO] [srv] client[127.0.0.1:47252] is accepted!
+2024-07-22 16:08:33 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:08:50 [INFO] [srv] client[127.0.0.1:35780] is accepted!
+2024-07-22 16:08:50 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:08:51 [INFO] [srv] client[127.0.0.1:35782] is accepted!
+2024-07-22 16:08:51 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:09:14 [INFO] [srv] client[127.0.0.1:35784] is accepted!
+2024-07-22 16:09:14 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:09:50 [INFO] [srv] client[127.0.0.1:54340] is accepted!
+2024-07-22 16:09:50 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:09:58 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 16:11:30 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:11:30 [INFO] [srv] Server has initialized!
+2024-07-22 16:11:41 [INFO] [srv] client[127.0.0.1:38256] is accepted!
+2024-07-22 16:11:41 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:13:25 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:13:25 [INFO] [srv] Server has initialized!
+2024-07-22 16:13:34 [INFO] [srv] client[127.0.0.1:36710] is accepted!
+2024-07-22 16:13:34 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:14:39 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:14:39 [INFO] [srv] Server has initialized!
+2024-07-22 16:14:48 [INFO] [srv] client[127.0.0.1:35278] is accepted!
+2024-07-22 16:14:48 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:15:46 [ERROR] bind error
+2024-07-22 16:16:42 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:16:42 [INFO] [srv] Server has initialized!
+2024-07-22 16:16:53 [INFO] [srv] client[127.0.0.1:55572] is accepted!
+2024-07-22 16:16:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:17:58 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:17:58 [INFO] [srv] Server has initialized!
+2024-07-22 16:18:12 [INFO] [srv] client[127.0.0.1:49288] is accepted!
+2024-07-22 16:18:12 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:18:42 [ERROR] bind error
+2024-07-22 16:19:10 [ERROR] bind error
+2024-07-22 16:19:17 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:19:17 [INFO] [srv] Server has initialized!
+2024-07-22 16:19:29 [INFO] [srv] client[127.0.0.1:35416] is accepted!
+2024-07-22 16:19:29 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:20:24 [ERROR] bind error
+2024-07-22 16:34:57 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:34:57 [INFO] [srv] Server has initialized!
+2024-07-22 16:35:09 [INFO] [srv] client[127.0.0.1:38304] is accepted!
+2024-07-22 16:35:09 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:35:10 [INFO] [srv] client[127.0.0.1:38318] is accepted!
+2024-07-22 16:35:10 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:35:27 [INFO] [srv] client[127.0.0.1:60888] is accepted!
+2024-07-22 16:35:27 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:36:10 [INFO] [srv] client[127.0.0.1:53558] is accepted!
+2024-07-22 16:36:10 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:36:32 [INFO] [srv] client[127.0.0.1:59118] is accepted!
+2024-07-22 16:36:32 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:36:51 [INFO] [srv] client[127.0.0.1:45258] is accepted!
+2024-07-22 16:36:51 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:36:56 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 16:44:24 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:44:24 [INFO] [srv] Server has initialized!
+2024-07-22 16:44:46 [INFO] [srv] client[127.0.0.1:42260] is accepted!
+2024-07-22 16:44:46 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:44:56 [INFO] [srv] client[127.0.0.1:45134] is accepted!
+2024-07-22 16:44:56 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:45:51 [ERROR] bind error
+2024-07-22 16:45:58 [ERROR] bind error
+2024-07-22 16:46:04 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 16:46:04 [INFO] [srv] Server has initialized!
+2024-07-22 16:46:18 [INFO] [srv] client[127.0.0.1:41344] is accepted!
+2024-07-22 16:46:18 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:46:25 [INFO] [srv] client[127.0.0.1:41346] is accepted!
+2024-07-22 16:46:25 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:46:53 [INFO] [srv] client[127.0.0.1:46026] is accepted!
+2024-07-22 16:46:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:46:53 [INFO] [srv] client[127.0.0.1:46028] is accepted!
+2024-07-22 16:46:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:46:53 [INFO] [srv] client[127.0.0.1:46034] is accepted!
+2024-07-22 16:46:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:47:08 [INFO] [srv] client[127.0.0.1:56426] is accepted!
+2024-07-22 16:47:08 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:47:13 [INFO] [srv] client[127.0.0.1:56428] is accepted!
+2024-07-22 16:47:13 [DEBUG] New client connected, total clients: 1
+2024-07-22 16:59:55 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 17:00:09 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:00:09 [INFO] [srv] Server has initialized!
+2024-07-22 17:00:20 [INFO] [srv] client[127.0.0.1:38878] is accepted!
+2024-07-22 17:00:20 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:00:34 [ERROR] bind error
+2024-07-22 17:08:01 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:08:01 [INFO] [srv] Server has initialized!
+2024-07-22 17:08:11 [INFO] [srv] client[127.0.0.1:47228] is accepted!
+2024-07-22 17:08:11 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:12 [INFO] [srv] client[127.0.0.1:47234] is accepted!
+2024-07-22 17:08:12 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:12 [INFO] [srv] client[127.0.0.1:47242] is accepted!
+2024-07-22 17:08:12 [DEBUG] New client connected, total clients: 2
+2024-07-22 17:08:12 [INFO] [srv] client[127.0.0.1:47248] is accepted!
+2024-07-22 17:08:12 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:16 [INFO] [srv] client[127.0.0.1:41172] is accepted!
+2024-07-22 17:08:16 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:16 [INFO] [srv] client[127.0.0.1:41174] is accepted!
+2024-07-22 17:08:16 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:16 [INFO] [srv] client[127.0.0.1:41186] is accepted!
+2024-07-22 17:08:16 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:16 [INFO] [srv] client[127.0.0.1:41198] is accepted!
+2024-07-22 17:08:16 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:18 [INFO] [srv] client[127.0.0.1:41200] is accepted!
+2024-07-22 17:08:18 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:18 [INFO] [srv] client[127.0.0.1:41204] is accepted!
+2024-07-22 17:08:18 [DEBUG] New client connected, total clients: 2
+2024-07-22 17:08:18 [INFO] [srv] client[127.0.0.1:41220] is accepted!
+2024-07-22 17:08:18 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:19 [INFO] [srv] client[127.0.0.1:41226] is accepted!
+2024-07-22 17:08:19 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:19 [INFO] [srv] client[127.0.0.1:41230] is accepted!
+2024-07-22 17:08:19 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:31 [INFO] [srv] client[127.0.0.1:46552] is accepted!
+2024-07-22 17:08:31 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:08:32 [INFO] [srv] client[127.0.0.1:46554] is accepted!
+2024-07-22 17:08:32 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:10:46 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:10:46 [INFO] [srv] Server has initialized!
+2024-07-22 17:11:03 [INFO] [srv] client[127.0.0.1:35614] is accepted!
+2024-07-22 17:11:03 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:11:04 [INFO] [srv] client[127.0.0.1:35630] is accepted!
+2024-07-22 17:11:04 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:12:12 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:12:12 [INFO] [srv] Server has initialized!
+2024-07-22 17:12:23 [INFO] [srv] client[127.0.0.1:59400] is accepted!
+2024-07-22 17:12:23 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:12:24 [INFO] [srv] client[127.0.0.1:59414] is accepted!
+2024-07-22 17:12:24 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:12:24 [INFO] [srv] client[127.0.0.1:59430] is accepted!
+2024-07-22 17:12:24 [DEBUG] New client connected, total clients: 2
+2024-07-22 17:12:30 [INFO] [srv] client[127.0.0.1:46932] is accepted!
+2024-07-22 17:12:30 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:12:33 [INFO] [srv] client[127.0.0.1:46946] is accepted!
+2024-07-22 17:12:33 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:12:53 [INFO] [srv] client[127.0.0.1:58956] is accepted!
+2024-07-22 17:12:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:14:11 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:14:11 [INFO] [srv] Server has initialized!
+2024-07-22 17:14:53 [INFO] [srv] client[127.0.0.1:57938] is accepted!
+2024-07-22 17:14:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:20:35 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:20:35 [INFO] [srv] Server has initialized!
+2024-07-22 17:20:46 [INFO] [srv] client[127.0.0.1:48222] is accepted!
+2024-07-22 17:20:46 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:20:47 [INFO] [srv] client[127.0.0.1:48232] is accepted!
+2024-07-22 17:20:47 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:21:11 [ERROR] bind error
+2024-07-22 17:21:47 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:21:47 [INFO] [srv] Server has initialized!
+2024-07-22 17:21:56 [INFO] [srv] client[127.0.0.1:49488] is accepted!
+2024-07-22 17:21:56 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:21:58 [INFO] [srv] client[127.0.0.1:49490] is accepted!
+2024-07-22 17:21:58 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:21:58 [INFO] [srv] client[127.0.0.1:49498] is accepted!
+2024-07-22 17:21:58 [DEBUG] New client connected, total clients: 2
+2024-07-22 17:22:05 [INFO] [srv] client[127.0.0.1:49508] is accepted!
+2024-07-22 17:22:05 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:22:08 [INFO] [srv] client[127.0.0.1:50714] is accepted!
+2024-07-22 17:22:08 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:22:21 [INFO] [srv] client[127.0.0.1:51006] is accepted!
+2024-07-22 17:22:21 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:28:24 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:28:24 [INFO] [srv] Server has initialized!
+2024-07-22 17:28:40 [INFO] [srv] client[127.0.0.1:39582] is accepted!
+2024-07-22 17:28:40 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:28:50 [INFO] [srv] client[127.0.0.1:43522] is accepted!
+2024-07-22 17:28:50 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:30:19 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:30:19 [INFO] [srv] Server has initialized!
+2024-07-22 17:30:28 [INFO] [srv] client[127.0.0.1:37084] is accepted!
+2024-07-22 17:30:28 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:30:36 [INFO] [srv] client[127.0.0.1:41072] is accepted!
+2024-07-22 17:30:36 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:31:56 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 17:31:56 [INFO] [srv] Server has initialized!
+2024-07-22 17:32:07 [INFO] [srv] client[127.0.0.1:48006] is accepted!
+2024-07-22 17:32:07 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:32:17 [INFO] [srv] client[127.0.0.1:42096] is accepted!
+2024-07-22 17:32:17 [DEBUG] New client connected, total clients: 1
+2024-07-22 17:33:05 [ERROR] bind error
+2024-07-22 19:15:02 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:15:02 [INFO] [srv] Server has initialized!
+2024-07-22 19:15:13 [INFO] [srv] client[127.0.0.1:33274] is accepted!
+2024-07-22 19:15:13 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:15:21 [INFO] [srv] client[127.0.0.1:44272] is accepted!
+2024-07-22 19:15:21 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:16:26 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:16:26 [INFO] [srv] Server has initialized!
+2024-07-22 19:16:41 [INFO] [srv] client[127.0.0.1:51708] is accepted!
+2024-07-22 19:16:41 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:16:53 [INFO] [srv] client[127.0.0.1:41498] is accepted!
+2024-07-22 19:16:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:19:14 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:19:14 [INFO] [srv] Server has initialized!
+2024-07-22 19:19:23 [INFO] [srv] client[127.0.0.1:58580] is accepted!
+2024-07-22 19:19:23 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:19:30 [INFO] [srv] client[127.0.0.1:53698] is accepted!
+2024-07-22 19:19:30 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:22:06 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:22:06 [INFO] [srv] Server has initialized!
+2024-07-22 19:22:15 [INFO] [srv] client[127.0.0.1:34226] is accepted!
+2024-07-22 19:22:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:22:22 [INFO] [srv] client[127.0.0.1:46412] is accepted!
+2024-07-22 19:22:22 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:24:00 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:24:00 [INFO] [srv] Server has initialized!
+2024-07-22 19:24:14 [INFO] [srv] client[127.0.0.1:42342] is accepted!
+2024-07-22 19:24:14 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:24:21 [INFO] [srv] client[127.0.0.1:49344] is accepted!
+2024-07-22 19:24:21 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:26:32 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:26:32 [INFO] [srv] Server has initialized!
+2024-07-22 19:26:46 [INFO] [srv] client[127.0.0.1:51980] is accepted!
+2024-07-22 19:26:46 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:26:52 [INFO] [srv] client[127.0.0.1:40796] is accepted!
+2024-07-22 19:26:52 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:33:38 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:33:38 [INFO] [srv] Server has initialized!
+2024-07-22 19:33:50 [INFO] [srv] client[127.0.0.1:39984] is accepted!
+2024-07-22 19:33:50 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:33:55 [INFO] [srv] client[127.0.0.1:39988] is accepted!
+2024-07-22 19:33:55 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:37:13 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:37:13 [INFO] [srv] Server has initialized!
+2024-07-22 19:37:27 [INFO] [srv] client[127.0.0.1:42130] is accepted!
+2024-07-22 19:37:27 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:37:32 [INFO] [srv] client[127.0.0.1:40478] is accepted!
+2024-07-22 19:37:32 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:39:41 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:39:41 [INFO] [srv] Server has initialized!
+2024-07-22 19:39:50 [INFO] [srv] client[127.0.0.1:50144] is accepted!
+2024-07-22 19:39:50 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:39:56 [INFO] [srv] client[127.0.0.1:50152] is accepted!
+2024-07-22 19:39:56 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:41:41 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:41:41 [INFO] [srv] Server has initialized!
+2024-07-22 19:41:50 [INFO] [srv] client[127.0.0.1:37152] is accepted!
+2024-07-22 19:41:50 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:41:57 [INFO] [srv] client[127.0.0.1:37154] is accepted!
+2024-07-22 19:41:57 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:43:34 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:43:34 [INFO] [srv] Server has initialized!
+2024-07-22 19:43:44 [INFO] [srv] client[127.0.0.1:38914] is accepted!
+2024-07-22 19:43:44 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:43:50 [INFO] [srv] client[127.0.0.1:42368] is accepted!
+2024-07-22 19:43:50 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:49:09 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:49:09 [INFO] [srv] Server has initialized!
+2024-07-22 19:49:19 [INFO] [srv] client[127.0.0.1:32992] is accepted!
+2024-07-22 19:49:19 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:49:25 [INFO] [srv] client[127.0.0.1:32996] is accepted!
+2024-07-22 19:49:25 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:50:55 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:50:55 [INFO] [srv] Server has initialized!
+2024-07-22 19:51:05 [INFO] [srv] client[127.0.0.1:34244] is accepted!
+2024-07-22 19:51:05 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:51:11 [INFO] [srv] client[127.0.0.1:52260] is accepted!
+2024-07-22 19:51:11 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:52:30 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:52:30 [INFO] [srv] Server has initialized!
+2024-07-22 19:52:41 [INFO] [srv] client[127.0.0.1:47858] is accepted!
+2024-07-22 19:52:41 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:52:41 [INFO] [srv] client[127.0.0.1:47874] is accepted!
+2024-07-22 19:52:41 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:53:37 [ERROR] bind error
+2024-07-22 19:53:59 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:53:59 [INFO] [srv] Server has initialized!
+2024-07-22 19:54:10 [INFO] [srv] client[127.0.0.1:33582] is accepted!
+2024-07-22 19:54:10 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:54:10 [INFO] [srv] client[127.0.0.1:33592] is accepted!
+2024-07-22 19:54:10 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:54:19 [ERROR] bind error
+2024-07-22 19:54:44 [ERROR] bind error
+2024-07-22 19:54:49 [ERROR] bind error
+2024-07-22 19:55:01 [ERROR] bind error
+2024-07-22 19:55:14 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 19:55:14 [INFO] [srv] Server has initialized!
+2024-07-22 19:55:25 [INFO] [srv] client[127.0.0.1:58438] is accepted!
+2024-07-22 19:55:25 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:55:26 [INFO] [srv] client[127.0.0.1:58440] is accepted!
+2024-07-22 19:55:26 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:55:26 [INFO] [srv] client[127.0.0.1:58446] is accepted!
+2024-07-22 19:55:26 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:55:26 [INFO] [srv] client[127.0.0.1:58456] is accepted!
+2024-07-22 19:55:26 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:55:32 [INFO] [srv] client[127.0.0.1:59570] is accepted!
+2024-07-22 19:55:32 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:55:42 [INFO] [srv] client[127.0.0.1:39524] is accepted!
+2024-07-22 19:55:42 [DEBUG] New client connected, total clients: 1
+2024-07-22 19:56:02 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 22:02:12 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:02:12 [INFO] [srv] Server has initialized!
+2024-07-22 22:02:33 [INFO] [srv] client[127.0.0.1:57394] is accepted!
+2024-07-22 22:02:33 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:02:42 [INFO] [srv] client[127.0.0.1:57402] is accepted!
+2024-07-22 22:02:42 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:04:53 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:04:53 [INFO] [srv] Server has initialized!
+2024-07-22 22:05:16 [INFO] [srv] client[127.0.0.1:38780] is accepted!
+2024-07-22 22:05:16 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:05:23 [INFO] [srv] client[127.0.0.1:56034] is accepted!
+2024-07-22 22:05:23 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:15:46 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:15:46 [INFO] [srv] Server has initialized!
+2024-07-22 22:15:57 [INFO] [srv] client[127.0.0.1:55826] is accepted!
+2024-07-22 22:15:57 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:15:58 [INFO] [srv] client[127.0.0.1:55834] is accepted!
+2024-07-22 22:15:58 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:16:08 [ERROR] bind error
+2024-07-22 22:16:31 [ERROR] bind error
+2024-07-22 22:17:00 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:17:00 [INFO] [srv] Server has initialized!
+2024-07-22 22:17:08 [INFO] [srv] client[127.0.0.1:35088] is accepted!
+2024-07-22 22:17:08 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:17:18 [INFO] [srv] client[127.0.0.1:57732] is accepted!
+2024-07-22 22:17:18 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:17:48 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 22:20:40 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:20:40 [INFO] [srv] Server has initialized!
+2024-07-22 22:20:51 [INFO] [srv] client[127.0.0.1:53408] is accepted!
+2024-07-22 22:20:51 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:20:58 [INFO] [srv] client[127.0.0.1:45056] is accepted!
+2024-07-22 22:20:58 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:25:52 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:25:52 [INFO] [srv] Server has initialized!
+2024-07-22 22:25:55 [INFO] [srv] client[127.0.0.1:56672] is accepted!
+2024-07-22 22:25:55 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:26:22 [INFO] [srv] client[127.0.0.1:52656] is accepted!
+2024-07-22 22:26:22 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:26:31 [INFO] [srv] client[127.0.0.1:49998] is accepted!
+2024-07-22 22:26:31 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:26:45 [INFO] [srv] client[127.0.0.1:52138] is accepted!
+2024-07-22 22:26:45 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:26:46 [INFO] [srv] client[127.0.0.1:52152] is accepted!
+2024-07-22 22:26:46 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:26:46 [INFO] [srv] client[127.0.0.1:52168] is accepted!
+2024-07-22 22:26:46 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:26:58 [INFO] [srv] client[127.0.0.1:50918] is accepted!
+2024-07-22 22:26:58 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:30:22 [INFO] [srv] client[127.0.0.1:36850] is accepted!
+2024-07-22 22:30:22 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:30:40 [INFO] [srv] client[127.0.0.1:35768] is accepted!
+2024-07-22 22:30:40 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:30:52 [INFO] [srv] client[127.0.0.1:40084] is accepted!
+2024-07-22 22:30:52 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:31:01 [INFO] [srv] client[127.0.0.1:52644] is accepted!
+2024-07-22 22:31:01 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:31:05 [INFO] [srv] client[127.0.0.1:60880] is accepted!
+2024-07-22 22:31:05 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:31:07 [INFO] [srv] client[127.0.0.1:60882] is accepted!
+2024-07-22 22:31:07 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:31:08 [INFO] [srv] client[127.0.0.1:60892] is accepted!
+2024-07-22 22:31:08 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:31:10 [INFO] [srv] client[127.0.0.1:60904] is accepted!
+2024-07-22 22:31:10 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:31:11 [INFO] [srv] client[127.0.0.1:60908] is accepted!
+2024-07-22 22:31:11 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:31:11 [INFO] [srv] client[127.0.0.1:60924] is accepted!
+2024-07-22 22:31:11 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:31:17 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 22:33:05 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:33:05 [INFO] [srv] Server has initialized!
+2024-07-22 22:33:16 [INFO] [srv] client[127.0.0.1:43902] is accepted!
+2024-07-22 22:33:16 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:33:35 [INFO] [srv] client[127.0.0.1:35854] is accepted!
+2024-07-22 22:33:35 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:33:43 [INFO] [srv] client[127.0.0.1:42994] is accepted!
+2024-07-22 22:33:43 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:34:16 [INFO] [srv] client[127.0.0.1:55902] is accepted!
+2024-07-22 22:34:16 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:34:57 [INFO] [srv] client[127.0.0.1:59740] is accepted!
+2024-07-22 22:34:57 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:35:23 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 22:35:45 [ERROR] bind error
+2024-07-22 22:43:01 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:43:01 [INFO] [srv] Server has initialized!
+2024-07-22 22:43:11 [INFO] [srv] client[127.0.0.1:59168] is accepted!
+2024-07-22 22:43:11 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:43:11 [INFO] [srv] client[127.0.0.1:59182] is accepted!
+2024-07-22 22:43:11 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:43:37 [ERROR] bind error
+2024-07-22 22:43:43 [ERROR] bind error
+2024-07-22 22:46:05 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:46:05 [INFO] [srv] Server has initialized!
+2024-07-22 22:46:15 [INFO] [srv] client[127.0.0.1:48736] is accepted!
+2024-07-22 22:46:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:46:27 [INFO] [srv] client[127.0.0.1:45648] is accepted!
+2024-07-22 22:46:27 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:46:35 [INFO] [srv] client[127.0.0.1:53536] is accepted!
+2024-07-22 22:46:35 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:47:07 [INFO] [srv] client[127.0.0.1:42262] is accepted!
+2024-07-22 22:47:07 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:47:20 [INFO] [srv] client[127.0.0.1:45010] is accepted!
+2024-07-22 22:47:20 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:48:03 [ERROR] bind error
+2024-07-22 22:48:43 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:48:43 [INFO] [srv] Server has initialized!
+2024-07-22 22:49:01 [INFO] [srv] client[127.0.0.1:55996] is accepted!
+2024-07-22 22:49:01 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:49:10 [INFO] [srv] client[127.0.0.1:59472] is accepted!
+2024-07-22 22:49:10 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:49:13 [INFO] [srv] client[127.0.0.1:34930] is accepted!
+2024-07-22 22:49:13 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:49:40 [ERROR] bind error
+2024-07-22 22:50:00 [ERROR] bind error
+2024-07-22 22:50:28 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:50:28 [INFO] [srv] Server has initialized!
+2024-07-22 22:50:40 [INFO] [srv] client[127.0.0.1:42276] is accepted!
+2024-07-22 22:50:40 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:50:56 [INFO] [srv] client[127.0.0.1:57272] is accepted!
+2024-07-22 22:50:56 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:51:10 [INFO] [srv] client[127.0.0.1:44822] is accepted!
+2024-07-22 22:51:10 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:51:26 [INFO] [srv] client[127.0.0.1:41986] is accepted!
+2024-07-22 22:51:26 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:51:39 [INFO] [srv] client[127.0.0.1:38004] is accepted!
+2024-07-22 22:51:39 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:51:56 [INFO] [srv] client[127.0.0.1:52706] is accepted!
+2024-07-22 22:51:56 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:52:05 [INFO] [srv] client[127.0.0.1:36352] is accepted!
+2024-07-22 22:52:05 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:54:19 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 22:54:19 [INFO] [srv] Server has initialized!
+2024-07-22 22:54:30 [INFO] [srv] client[127.0.0.1:53002] is accepted!
+2024-07-22 22:54:30 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:54:31 [INFO] [srv] client[127.0.0.1:53008] is accepted!
+2024-07-22 22:54:31 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:54:31 [INFO] [srv] client[127.0.0.1:53012] is accepted!
+2024-07-22 22:54:31 [DEBUG] New client connected, total clients: 2
+2024-07-22 22:54:34 [INFO] [srv] client[127.0.0.1:54342] is accepted!
+2024-07-22 22:54:34 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:54:36 [INFO] [srv] client[127.0.0.1:54350] is accepted!
+2024-07-22 22:54:36 [DEBUG] New client connected, total clients: 1
+2024-07-22 22:54:52 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 23:36:43 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 23:36:43 [INFO] [srv] Server has initialized!
+2024-07-22 23:36:53 [INFO] [srv] client[127.0.0.1:35104] is accepted!
+2024-07-22 23:36:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:36:54 [INFO] [srv] client[127.0.0.1:35120] is accepted!
+2024-07-22 23:36:54 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:36:54 [INFO] [srv] client[127.0.0.1:35136] is accepted!
+2024-07-22 23:36:54 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:37:00 [INFO] [srv] client[127.0.0.1:35144] is accepted!
+2024-07-22 23:37:00 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:37:05 [INFO] [srv] client[127.0.0.1:60410] is accepted!
+2024-07-22 23:37:05 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:37:37 [INFO] [srv] client[127.0.0.1:49094] is accepted!
+2024-07-22 23:37:37 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:37:47 [INFO] [srv] client[127.0.0.1:45950] is accepted!
+2024-07-22 23:37:47 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:38:24 [INFO] [srv] client[127.0.0.1:46684] is accepted!
+2024-07-22 23:38:24 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:38:47 [INFO] [srv] SIGINT is coming!
+
+2024-07-22 23:43:12 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 23:43:12 [INFO] [srv] Server has initialized!
+2024-07-22 23:43:33 [INFO] [srv] client[127.0.0.1:41232] is accepted!
+2024-07-22 23:43:33 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:43:39 [INFO] [srv] client[127.0.0.1:41234] is accepted!
+2024-07-22 23:43:39 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:43:45 [INFO] [srv] client[127.0.0.1:49024] is accepted!
+2024-07-22 23:43:45 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:43:57 [INFO] [srv] client[127.0.0.1:54696] is accepted!
+2024-07-22 23:43:57 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:44:15 [INFO] [srv] client[127.0.0.1:49470] is accepted!
+2024-07-22 23:44:15 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:44:28 [INFO] [srv] client[127.0.0.1:54254] is accepted!
+2024-07-22 23:44:28 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:47:06 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-22 23:47:06 [INFO] [srv] Server has initialized!
+2024-07-22 23:47:17 [INFO] [srv] client[127.0.0.1:45342] is accepted!
+2024-07-22 23:47:17 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:47:27 [INFO] [srv] client[127.0.0.1:34216] is accepted!
+2024-07-22 23:47:27 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:47:45 [INFO] [srv] client[127.0.0.1:48278] is accepted!
+2024-07-22 23:47:45 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:47:59 [INFO] [srv] client[127.0.0.1:55146] is accepted!
+2024-07-22 23:47:59 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:48:14 [INFO] [srv] client[127.0.0.1:41592] is accepted!
+2024-07-22 23:48:14 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:48:53 [INFO] [srv] client[127.0.0.1:54592] is accepted!
+2024-07-22 23:48:53 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:48:56 [INFO] [srv] client[127.0.0.1:54594] is accepted!
+2024-07-22 23:48:56 [DEBUG] New client connected, total clients: 1
+2024-07-22 23:49:02 [INFO] [srv] SIGINT is coming!
+
+2024-07-23 16:51:57 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 16:51:57 [INFO] [srv] Server has initialized!
+2024-07-23 16:52:30 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 16:52:30 [INFO] [srv] Server has initialized!
+2024-07-23 16:53:32 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 16:53:32 [INFO] [srv] Server has initialized!
+2024-07-23 16:54:23 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 16:54:23 [INFO] [srv] Server has initialized!
+2024-07-23 16:55:41 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 16:55:41 [INFO] [srv] Server has initialized!
+2024-07-23 16:56:08 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 16:56:08 [INFO] [srv] Server has initialized!
+2024-07-23 16:56:50 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 16:56:50 [INFO] [srv] Server has initialized!
+2024-07-23 16:57:08 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 16:57:08 [INFO] [srv] Server has initialized!
+2024-07-23 17:23:18 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 17:23:18 [INFO] [srv] Server has initialized!
+2024-07-23 17:23:30 [INFO] [srv] client[127.0.0.1:37788] is accepted!
+2024-07-23 17:23:30 [DEBUG] New client connected, total clients: 1
+2024-07-23 17:23:31 [INFO] [srv] client[127.0.0.1:37800] is accepted!
+2024-07-23 17:23:31 [DEBUG] New client connected, total clients: 1
+2024-07-23 17:23:31 [INFO] [srv] client[127.0.0.1:37802] is accepted!
+2024-07-23 17:23:31 [DEBUG] New client connected, total clients: 2
+2024-07-23 17:23:31 [INFO] [srv] client[127.0.0.1:37806] is accepted!
+2024-07-23 17:23:31 [DEBUG] New client connected, total clients: 1
+2024-07-23 17:24:40 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 17:24:40 [INFO] [srv] Server has initialized!
+2024-07-23 17:29:00 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 17:29:00 [INFO] [srv] Server has initialized!
+2024-07-23 22:06:10 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 22:06:10 [INFO] [srv] Server has initialized!
+2024-07-23 22:08:55 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 22:08:55 [INFO] [srv] Server has initialized!
+2024-07-23 22:09:38 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 22:09:38 [INFO] [srv] Server has initialized!
+2024-07-23 22:10:01 [INFO] [srv] client[127.0.0.1:55884] is accepted!
+2024-07-23 22:10:01 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:10:01 [INFO] [srv] client[127.0.0.1:55890] is accepted!
+2024-07-23 22:10:01 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:11:52 [ERROR] bind error
+2024-07-23 22:12:05 [INFO] [srv] client[127.0.0.1:51848] is accepted!
+2024-07-23 22:12:05 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:15:56 [INFO] [srv] SIGINT is coming!
+
+2024-07-23 22:16:01 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 22:16:01 [INFO] [srv] Server has initialized!
+2024-07-23 22:16:22 [INFO] [srv] client[127.0.0.1:40340] is accepted!
+2024-07-23 22:16:22 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:17:15 [ERROR] bind error
+2024-07-23 22:17:19 [ERROR] bind error
+2024-07-23 22:17:55 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 22:17:55 [INFO] [srv] Server has initialized!
+2024-07-23 22:18:05 [INFO] [srv] client[127.0.0.1:52606] is accepted!
+2024-07-23 22:18:05 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:18:21 [INFO] [srv] client[127.0.0.1:46846] is accepted!
+2024-07-23 22:18:21 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:20:41 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-23 22:20:41 [INFO] [srv] Server has initialized!
+2024-07-23 22:20:52 [INFO] [srv] client[127.0.0.1:59694] is accepted!
+2024-07-23 22:20:52 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:20:52 [INFO] [srv] client[127.0.0.1:59708] is accepted!
+2024-07-23 22:20:52 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:20:52 [INFO] [srv] client[127.0.0.1:59710] is accepted!
+2024-07-23 22:20:52 [DEBUG] New client connected, total clients: 2
+2024-07-23 22:20:53 [INFO] [srv] client[127.0.0.1:59720] is accepted!
+2024-07-23 22:20:53 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:21:17 [INFO] [srv] client[127.0.0.1:38456] is accepted!
+2024-07-23 22:21:17 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:21:35 [INFO] [srv] client[127.0.0.1:54152] is accepted!
+2024-07-23 22:21:35 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:21:48 [INFO] [srv] client[127.0.0.1:58128] is accepted!
+2024-07-23 22:21:48 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:21:59 [INFO] [srv] client[127.0.0.1:39006] is accepted!
+2024-07-23 22:21:59 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:22:01 [INFO] [srv] client[127.0.0.1:39010] is accepted!
+2024-07-23 22:22:01 [DEBUG] New client connected, total clients: 1
+2024-07-23 22:22:12 [INFO] [srv] SIGINT is coming!
+
+2024-07-24 09:51:41 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 09:51:41 [INFO] [srv] Server has initialized!
+2024-07-24 09:52:03 [INFO] [srv] client[127.0.0.1:37688] is accepted!
+2024-07-24 09:52:03 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:52:06 [INFO] [srv] client[127.0.0.1:37698] is accepted!
+2024-07-24 09:52:06 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:53:50 [INFO] [srv] client[127.0.0.1:59798] is accepted!
+2024-07-24 09:53:50 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:53:51 [INFO] [srv] client[127.0.0.1:59814] is accepted!
+2024-07-24 09:53:51 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:53:58 [INFO] [srv] client[127.0.0.1:59820] is accepted!
+2024-07-24 09:53:58 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:54:03 [INFO] [srv] client[127.0.0.1:54014] is accepted!
+2024-07-24 09:54:03 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:54:05 [INFO] [srv] client[127.0.0.1:54020] is accepted!
+2024-07-24 09:54:05 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:55:09 [INFO] [srv] client[127.0.0.1:50960] is accepted!
+2024-07-24 09:55:09 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:55:27 [INFO] [srv] client[127.0.0.1:46058] is accepted!
+2024-07-24 09:55:27 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:57:12 [ERROR] bind error
+2024-07-24 09:57:18 [INFO] [srv] SIGINT is coming!
+
+2024-07-24 09:57:23 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 09:57:23 [INFO] [srv] Server has initialized!
+2024-07-24 09:57:35 [INFO] [srv] client[127.0.0.1:55284] is accepted!
+2024-07-24 09:57:35 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:58:07 [INFO] [srv] client[127.0.0.1:33520] is accepted!
+2024-07-24 09:58:07 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:58:07 [INFO] [srv] client[127.0.0.1:33536] is accepted!
+2024-07-24 09:58:07 [DEBUG] New client connected, total clients: 1
+2024-07-24 09:58:54 [INFO] [srv] SIGINT is coming!
+
+2024-07-24 10:19:37 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:19:37 [INFO] [srv] Server has initialized!
+2024-07-24 10:19:48 [INFO] [srv] client[127.0.0.1:41990] is accepted!
+2024-07-24 10:19:48 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:19:54 [INFO] [srv] client[127.0.0.1:51708] is accepted!
+2024-07-24 10:19:54 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:20:01 [INFO] [srv] client[127.0.0.1:54848] is accepted!
+2024-07-24 10:20:01 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:20:05 [INFO] [srv] client[127.0.0.1:54852] is accepted!
+2024-07-24 10:20:05 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:20:15 [INFO] [srv] client[127.0.0.1:33210] is accepted!
+2024-07-24 10:20:15 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:21:57 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:21:57 [INFO] [srv] Server has initialized!
+2024-07-24 10:22:10 [INFO] [srv] client[127.0.0.1:34916] is accepted!
+2024-07-24 10:22:10 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:23:01 [ERROR] bind error
+2024-07-24 10:26:36 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:26:36 [INFO] [srv] Server has initialized!
+2024-07-24 10:26:48 [INFO] [srv] client[127.0.0.1:54540] is accepted!
+2024-07-24 10:26:48 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:26:51 [INFO] [srv] client[127.0.0.1:47426] is accepted!
+2024-07-24 10:26:51 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:26:51 [INFO] [srv] client[127.0.0.1:47436] is accepted!
+2024-07-24 10:26:51 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:27:32 [ERROR] bind error
+2024-07-24 10:27:53 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:27:53 [INFO] [srv] Server has initialized!
+2024-07-24 10:28:04 [INFO] [srv] client[127.0.0.1:38946] is accepted!
+2024-07-24 10:28:04 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:28:08 [INFO] [srv] client[127.0.0.1:38960] is accepted!
+2024-07-24 10:28:08 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:28:16 [INFO] [srv] client[127.0.0.1:55192] is accepted!
+2024-07-24 10:28:16 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:28:22 [INFO] [srv] SIGINT is coming!
+
+2024-07-24 10:31:42 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:31:42 [INFO] [srv] Server has initialized!
+2024-07-24 10:31:53 [INFO] [srv] client[127.0.0.1:48302] is accepted!
+2024-07-24 10:31:53 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:31:56 [INFO] [srv] client[127.0.0.1:48312] is accepted!
+2024-07-24 10:31:56 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:32:18 [INFO] [srv] SIGINT is coming!
+
+2024-07-24 10:33:17 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:33:17 [INFO] [srv] Server has initialized!
+2024-07-24 10:33:34 [INFO] [srv] client[127.0.0.1:58826] is accepted!
+2024-07-24 10:33:34 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:33:35 [INFO] [srv] client[127.0.0.1:58842] is accepted!
+2024-07-24 10:33:35 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:33:38 [INFO] [srv] client[127.0.0.1:58848] is accepted!
+2024-07-24 10:33:38 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:33:41 [INFO] [srv] client[127.0.0.1:54788] is accepted!
+2024-07-24 10:33:41 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:33:44 [INFO] [srv] client[127.0.0.1:54796] is accepted!
+2024-07-24 10:33:44 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:33:45 [INFO] [srv] client[127.0.0.1:54808] is accepted!
+2024-07-24 10:33:45 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:33:46 [INFO] [srv] client[127.0.0.1:54816] is accepted!
+2024-07-24 10:33:46 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:33:46 [INFO] [srv] client[127.0.0.1:54828] is accepted!
+2024-07-24 10:33:46 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:33:46 [INFO] [srv] client[127.0.0.1:54842] is accepted!
+2024-07-24 10:33:46 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:33:53 [INFO] [srv] SIGINT is coming!
+
+2024-07-24 10:40:00 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:40:00 [INFO] [srv] Server has initialized!
+2024-07-24 10:40:10 [INFO] [srv] client[127.0.0.1:36760] is accepted!
+2024-07-24 10:40:10 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:40:13 [INFO] [srv] client[127.0.0.1:36774] is accepted!
+2024-07-24 10:40:13 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:40:13 [INFO] [srv] client[127.0.0.1:36778] is accepted!
+2024-07-24 10:40:13 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:41:59 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:41:59 [INFO] [srv] Server has initialized!
+2024-07-24 10:42:10 [INFO] [srv] client[127.0.0.1:53242] is accepted!
+2024-07-24 10:42:10 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:42:12 [INFO] [srv] client[127.0.0.1:53246] is accepted!
+2024-07-24 10:42:12 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:43:38 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:43:38 [INFO] [srv] Server has initialized!
+2024-07-24 10:43:49 [INFO] [srv] client[127.0.0.1:34850] is accepted!
+2024-07-24 10:43:49 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:43:52 [INFO] [srv] client[127.0.0.1:34852] is accepted!
+2024-07-24 10:43:52 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:43:53 [INFO] [srv] client[127.0.0.1:34856] is accepted!
+2024-07-24 10:43:53 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:44:00 [INFO] [srv] SIGINT is coming!
+
+2024-07-24 10:44:44 [ERROR] bind error
+2024-07-24 10:44:59 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:44:59 [INFO] [srv] Server has initialized!
+2024-07-24 10:45:12 [INFO] [srv] client[127.0.0.1:46586] is accepted!
+2024-07-24 10:45:12 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:45:14 [INFO] [srv] client[127.0.0.1:46592] is accepted!
+2024-07-24 10:45:14 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:48:27 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:48:27 [INFO] [srv] Server has initialized!
+2024-07-24 10:48:37 [INFO] [srv] client[127.0.0.1:33134] is accepted!
+2024-07-24 10:48:37 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:48:41 [INFO] [srv] client[127.0.0.1:44632] is accepted!
+2024-07-24 10:48:41 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:48:41 [INFO] [srv] client[127.0.0.1:44646] is accepted!
+2024-07-24 10:48:41 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:50:24 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:50:24 [INFO] [srv] Server has initialized!
+2024-07-24 10:50:32 [INFO] [srv] client[127.0.0.1:40326] is accepted!
+2024-07-24 10:50:32 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:50:36 [INFO] [srv] client[127.0.0.1:40342] is accepted!
+2024-07-24 10:50:36 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:54:45 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:54:45 [INFO] [srv] Server has initialized!
+2024-07-24 10:55:05 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 10:55:05 [INFO] [srv] Server has initialized!
+2024-07-24 10:55:17 [INFO] [srv] client[127.0.0.1:58330] is accepted!
+2024-07-24 10:55:17 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:55:19 [INFO] [srv] client[127.0.0.1:52648] is accepted!
+2024-07-24 10:55:19 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:55:20 [INFO] [srv] client[127.0.0.1:52662] is accepted!
+2024-07-24 10:55:20 [DEBUG] New client connected, total clients: 1
+2024-07-24 10:55:20 [INFO] [srv] client[127.0.0.1:52664] is accepted!
+2024-07-24 10:55:20 [DEBUG] New client connected, total clients: 2
+2024-07-24 10:55:26 [INFO] [srv] SIGINT is coming!
+
+2024-07-24 11:07:18 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 11:07:18 [INFO] [srv] Server has initialized!
+2024-07-24 11:07:29 [INFO] [srv] client[127.0.0.1:47990] is accepted!
+2024-07-24 11:07:29 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:30 [INFO] [srv] client[127.0.0.1:47992] is accepted!
+2024-07-24 11:07:30 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:34 [INFO] [srv] client[127.0.0.1:47994] is accepted!
+2024-07-24 11:07:34 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:37 [INFO] [srv] client[127.0.0.1:48008] is accepted!
+2024-07-24 11:07:37 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:44 [INFO] [srv] client[127.0.0.1:40494] is accepted!
+2024-07-24 11:07:44 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:44 [INFO] [srv] client[127.0.0.1:40510] is accepted!
+2024-07-24 11:07:44 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:44 [INFO] [srv] client[127.0.0.1:40522] is accepted!
+2024-07-24 11:07:44 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:47 [INFO] [srv] client[127.0.0.1:40526] is accepted!
+2024-07-24 11:07:47 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:48 [INFO] [srv] client[127.0.0.1:40536] is accepted!
+2024-07-24 11:07:48 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:48 [INFO] [srv] client[127.0.0.1:40546] is accepted!
+2024-07-24 11:07:48 [DEBUG] New client connected, total clients: 2
+2024-07-24 11:07:48 [INFO] [srv] client[127.0.0.1:40556] is accepted!
+2024-07-24 11:07:48 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:49 [INFO] [srv] client[127.0.0.1:38624] is accepted!
+2024-07-24 11:07:49 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:49 [INFO] [srv] client[127.0.0.1:38628] is accepted!
+2024-07-24 11:07:49 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:49 [INFO] [srv] client[127.0.0.1:38642] is accepted!
+2024-07-24 11:07:49 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:54 [INFO] [srv] client[127.0.0.1:38646] is accepted!
+2024-07-24 11:07:54 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:54 [INFO] [srv] client[127.0.0.1:38656] is accepted!
+2024-07-24 11:07:54 [DEBUG] New client connected, total clients: 2
+2024-07-24 11:07:58 [INFO] [srv] client[127.0.0.1:38672] is accepted!
+2024-07-24 11:07:58 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:59 [INFO] [srv] client[127.0.0.1:38678] is accepted!
+2024-07-24 11:07:59 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:07:59 [INFO] [srv] client[127.0.0.1:38694] is accepted!
+2024-07-24 11:07:59 [DEBUG] New client connected, total clients: 2
+2024-07-24 11:08:13 [INFO] [srv] client[127.0.0.1:50504] is accepted!
+2024-07-24 11:08:13 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:08:20 [INFO] [srv] client[127.0.0.1:52150] is accepted!
+2024-07-24 11:08:20 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:08:21 [INFO] [srv] client[127.0.0.1:52164] is accepted!
+2024-07-24 11:08:21 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:39:23 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 11:39:23 [INFO] [srv] Server has initialized!
+2024-07-24 11:39:38 [INFO] [srv] client[127.0.0.1:45540] is accepted!
+2024-07-24 11:39:38 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:39:40 [INFO] [srv] client[127.0.0.1:59132] is accepted!
+2024-07-24 11:39:40 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:39:40 [INFO] [srv] client[127.0.0.1:59136] is accepted!
+2024-07-24 11:39:40 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:39:40 [INFO] [srv] client[127.0.0.1:59146] is accepted!
+2024-07-24 11:39:40 [DEBUG] New client connected, total clients: 2
+2024-07-24 11:39:54 [INFO] [srv] client[127.0.0.1:54766] is accepted!
+2024-07-24 11:39:54 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:40:18 [INFO] [srv] client[127.0.0.1:60778] is accepted!
+2024-07-24 11:40:18 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:40:19 [INFO] [srv] client[127.0.0.1:34458] is accepted!
+2024-07-24 11:40:19 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:40:47 [INFO] [srv] SIGINT is coming!
+
+2024-07-24 11:48:36 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 11:48:36 [INFO] [srv] Server has initialized!
+2024-07-24 11:48:48 [INFO] [srv] client[127.0.0.1:35148] is accepted!
+2024-07-24 11:48:48 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:48:51 [INFO] [srv] client[127.0.0.1:36678] is accepted!
+2024-07-24 11:48:51 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:48:51 [INFO] [srv] client[127.0.0.1:36692] is accepted!
+2024-07-24 11:48:51 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:48:51 [INFO] [srv] client[127.0.0.1:36704] is accepted!
+2024-07-24 11:48:51 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:48:51 [INFO] [srv] client[127.0.0.1:36712] is accepted!
+2024-07-24 11:48:51 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:49:06 [ERROR] bind error
+2024-07-24 11:49:12 [ERROR] bind error
+2024-07-24 11:50:41 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 11:50:41 [INFO] [srv] Server has initialized!
+2024-07-24 11:51:15 [INFO] [srv] client[127.0.0.1:46308] is accepted!
+2024-07-24 11:51:15 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:51:18 [INFO] [srv] client[127.0.0.1:46320] is accepted!
+2024-07-24 11:51:18 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:51:18 [INFO] [srv] client[127.0.0.1:46336] is accepted!
+2024-07-24 11:51:18 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:51:18 [INFO] [srv] client[127.0.0.1:46348] is accepted!
+2024-07-24 11:51:18 [DEBUG] New client connected, total clients: 2
+2024-07-24 11:51:18 [INFO] [srv] client[127.0.0.1:46352] is accepted!
+2024-07-24 11:51:18 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:51:35 [ERROR] bind error
+2024-07-24 11:53:05 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 11:53:05 [INFO] [srv] Server has initialized!
+2024-07-24 11:53:16 [INFO] [srv] client[127.0.0.1:52042] is accepted!
+2024-07-24 11:53:16 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:53:19 [INFO] [srv] client[127.0.0.1:38722] is accepted!
+2024-07-24 11:53:19 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:53:19 [INFO] [srv] client[127.0.0.1:38736] is accepted!
+2024-07-24 11:53:19 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:53:19 [INFO] [srv] client[127.0.0.1:38744] is accepted!
+2024-07-24 11:53:19 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:53:29 [INFO] [srv] client[127.0.0.1:33162] is accepted!
+2024-07-24 11:53:29 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:53:52 [INFO] [srv] client[127.0.0.1:54474] is accepted!
+2024-07-24 11:53:52 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:06 [INFO] [srv] client[127.0.0.1:47940] is accepted!
+2024-07-24 11:54:06 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:14 [INFO] [srv] client[127.0.0.1:55810] is accepted!
+2024-07-24 11:54:14 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:17 [INFO] [srv] client[127.0.0.1:55826] is accepted!
+2024-07-24 11:54:17 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:19 [INFO] [srv] client[127.0.0.1:39376] is accepted!
+2024-07-24 11:54:19 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:20 [INFO] [srv] client[127.0.0.1:39390] is accepted!
+2024-07-24 11:54:20 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:20 [INFO] [srv] client[127.0.0.1:39392] is accepted!
+2024-07-24 11:54:20 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:21 [INFO] [srv] client[127.0.0.1:39404] is accepted!
+2024-07-24 11:54:21 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:22 [INFO] [srv] client[127.0.0.1:39408] is accepted!
+2024-07-24 11:54:22 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:22 [INFO] [srv] client[127.0.0.1:39414] is accepted!
+2024-07-24 11:54:22 [DEBUG] New client connected, total clients: 2
+2024-07-24 11:54:25 [INFO] [srv] client[127.0.0.1:39430] is accepted!
+2024-07-24 11:54:25 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:26 [INFO] [srv] client[127.0.0.1:39444] is accepted!
+2024-07-24 11:54:26 [DEBUG] New client connected, total clients: 1
+2024-07-24 11:54:26 [INFO] [srv] client[127.0.0.1:39450] is accepted!
+2024-07-24 11:54:26 [DEBUG] New client connected, total clients: 2
+2024-07-24 11:54:26 [INFO] [srv] client[127.0.0.1:39452] is accepted!
+2024-07-24 11:54:26 [DEBUG] New client connected, total clients: 1
+2024-07-24 15:52:37 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-24 15:52:37 [INFO] [srv] Server has initialized!
+2024-07-24 15:53:55 [INFO] [srv] client[127.0.0.1:45992] is accepted!
+2024-07-24 15:53:55 [DEBUG] New client connected, total clients: 1
+2024-07-24 15:59:58 [INFO] [srv] client[127.0.0.1:33574] is accepted!
+2024-07-24 15:59:58 [DEBUG] New client connected, total clients: 1
+2024-07-24 15:59:58 [INFO] [srv] client[127.0.0.1:33578] is accepted!
+2024-07-24 15:59:58 [DEBUG] New client connected, total clients: 1
+2024-07-24 15:59:58 [INFO] [srv] client[127.0.0.1:33588] is accepted!
+2024-07-24 15:59:58 [DEBUG] New client connected, total clients: 1
+2024-07-24 16:00:05 [INFO] [srv] client[127.0.0.1:33862] is accepted!
+2024-07-24 16:00:05 [DEBUG] New client connected, total clients: 1
+2024-07-24 16:00:06 [INFO] [srv] client[127.0.0.1:33864] is accepted!
+2024-07-24 16:00:06 [DEBUG] New client connected, total clients: 1
+2024-07-24 16:00:06 [INFO] [srv] client[127.0.0.1:33868] is accepted!
+2024-07-24 16:00:06 [DEBUG] New client connected, total clients: 2
+2024-07-24 16:00:06 [INFO] [srv] client[127.0.0.1:33870] is accepted!
+2024-07-24 16:00:06 [DEBUG] New client connected, total clients: 1
+2024-07-24 16:00:30 [INFO] [srv] client[127.0.0.1:60908] is accepted!
+2024-07-24 16:00:30 [DEBUG] New client connected, total clients: 1
+2024-07-24 16:07:26 [INFO] [srv] client[127.0.0.1:39934] is accepted!
+2024-07-24 16:07:26 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:14 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-25 10:07:14 [INFO] [srv] Server has initialized!
+2024-07-25 10:07:26 [INFO] [srv] client[127.0.0.1:44180] is accepted!
+2024-07-25 10:07:26 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:30 [INFO] [srv] client[127.0.0.1:51026] is accepted!
+2024-07-25 10:07:30 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:35 [INFO] [srv] client[127.0.0.1:51042] is accepted!
+2024-07-25 10:07:35 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:38 [INFO] [srv] client[127.0.0.1:51044] is accepted!
+2024-07-25 10:07:38 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:41 [INFO] [srv] client[127.0.0.1:55820] is accepted!
+2024-07-25 10:07:41 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:43 [INFO] [srv] client[127.0.0.1:55824] is accepted!
+2024-07-25 10:07:43 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:47 [INFO] [srv] client[127.0.0.1:55834] is accepted!
+2024-07-25 10:07:47 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:47 [INFO] [srv] client[127.0.0.1:55844] is accepted!
+2024-07-25 10:07:47 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:47 [INFO] [srv] client[127.0.0.1:55856] is accepted!
+2024-07-25 10:07:47 [DEBUG] New client connected, total clients: 2
+2024-07-25 10:07:52 [INFO] [srv] client[127.0.0.1:34508] is accepted!
+2024-07-25 10:07:52 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:52 [INFO] [srv] client[127.0.0.1:34522] is accepted!
+2024-07-25 10:07:52 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:52 [INFO] [srv] client[127.0.0.1:34534] is accepted!
+2024-07-25 10:07:52 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:52 [INFO] [srv] client[127.0.0.1:34550] is accepted!
+2024-07-25 10:07:52 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:56 [INFO] [srv] client[127.0.0.1:34564] is accepted!
+2024-07-25 10:07:56 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:56 [INFO] [srv] client[127.0.0.1:34576] is accepted!
+2024-07-25 10:07:56 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:56 [INFO] [srv] client[127.0.0.1:34578] is accepted!
+2024-07-25 10:07:56 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:58 [INFO] [srv] client[127.0.0.1:34582] is accepted!
+2024-07-25 10:07:58 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:07:58 [INFO] [srv] client[127.0.0.1:34590] is accepted!
+2024-07-25 10:07:58 [DEBUG] New client connected, total clients: 1
+2024-07-25 10:08:08 [INFO] [srv] SIGINT is coming!
+
+2024-07-25 11:22:34 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-25 11:22:34 [INFO] [srv] Server has initialized!
+2024-07-25 11:22:36 [INFO] [srv] SIGINT is coming!
+
+2024-07-25 11:22:38 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-25 11:22:38 [INFO] [srv] Server has initialized!
+2024-07-25 11:22:39 [INFO] [srv] SIGINT is coming!
+
+2024-07-25 11:22:43 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-25 11:22:43 [INFO] [srv] Server has initialized!
+2024-07-25 11:22:45 [INFO] [srv] SIGINT is coming!
+
+2024-07-25 11:33:30 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-25 11:33:30 [INFO] [srv] Server has initialized!
+2024-07-25 11:33:33 [INFO] [srv] client[127.0.0.1:34398] is accepted!
+2024-07-25 11:33:33 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:33:37 [INFO] [srv] client[127.0.0.1:51324] is accepted!
+2024-07-25 11:33:37 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:33:38 [INFO] [srv] client[127.0.0.1:51334] is accepted!
+2024-07-25 11:33:38 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:33:38 [INFO] [srv] client[127.0.0.1:51350] is accepted!
+2024-07-25 11:33:38 [DEBUG] New client connected, total clients: 2
+2024-07-25 11:33:41 [INFO] [srv] client[127.0.0.1:51360] is accepted!
+2024-07-25 11:33:41 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:33:42 [INFO] [srv] client[127.0.0.1:51364] is accepted!
+2024-07-25 11:33:42 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:33:42 [INFO] [srv] client[127.0.0.1:51370] is accepted!
+2024-07-25 11:33:42 [DEBUG] New client connected, total clients: 2
+2024-07-25 11:33:42 [INFO] [srv] client[127.0.0.1:51378] is accepted!
+2024-07-25 11:33:42 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:33:44 [INFO] [srv] client[127.0.0.1:49128] is accepted!
+2024-07-25 11:33:44 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:33:44 [INFO] [srv] client[127.0.0.1:49144] is accepted!
+2024-07-25 11:33:44 [DEBUG] New client connected, total clients: 2
+2024-07-25 11:33:44 [INFO] [srv] client[127.0.0.1:49160] is accepted!
+2024-07-25 11:33:44 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:34:03 [ERROR] bind error
+2024-07-25 11:34:14 [ERROR] bind error
+2024-07-25 11:34:16 [ERROR] bind error
+2024-07-25 11:34:20 [ERROR] bind error
+2024-07-25 11:34:21 [ERROR] bind error
+2024-07-25 11:34:27 [ERROR] bind error
+2024-07-25 11:34:57 [INFO] [srv] server[127.0.0.54:36354] is initializing!
+2024-07-25 11:34:57 [INFO] [srv] Server has initialized!
+2024-07-25 11:35:09 [INFO] [srv] client[127.0.0.1:43860] is accepted!
+2024-07-25 11:35:09 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:35:10 [INFO] [srv] client[127.0.0.1:43876] is accepted!
+2024-07-25 11:35:10 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:37:56 [INFO] [srv] client[127.0.0.1:36908] is accepted!
+2024-07-25 11:37:56 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:37:58 [INFO] [srv] client[127.0.0.1:36910] is accepted!
+2024-07-25 11:37:58 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:40:14 [INFO] [srv] client[127.0.0.1:42852] is accepted!
+2024-07-25 11:40:14 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:40:22 [INFO] [srv] client[127.0.0.1:42866] is accepted!
+2024-07-25 11:40:22 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:40:22 [INFO] [srv] client[127.0.0.1:42872] is accepted!
+2024-07-25 11:40:22 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:40:22 [INFO] [srv] client[127.0.0.1:42876] is accepted!
+2024-07-25 11:40:22 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:40:37 [INFO] [srv] client[127.0.0.1:48194] is accepted!
+2024-07-25 11:40:37 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:41:13 [INFO] [srv] client[127.0.0.1:44130] is accepted!
+2024-07-25 11:41:13 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:41:16 [INFO] [srv] client[127.0.0.1:52054] is accepted!
+2024-07-25 11:41:16 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:41:16 [INFO] [srv] client[127.0.0.1:52056] is accepted!
+2024-07-25 11:41:16 [DEBUG] New client connected, total clients: 1
+2024-07-25 11:41:16 [INFO] [srv] client[127.0.0.1:52060] is accepted!
+2024-07-25 11:41:16 [DEBUG] New client connected, total clients: 1

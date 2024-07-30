@@ -16,32 +16,12 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <stdarg.h>
-#include <ctype.h>
 
 #define NUM_THREADS 5
 #define MAX_MSG_LEN 2048
 #define MAX_MSG_BUF_LEN (MAX_MSG_LEN + 100)
 #define MAX_EVENTS 10
 #define KEY 0x1a0a
-
-
-
-typedef struct 
-{
-    char host[15];
-    char port[10];
-}ServerCongif;
-
-typedef struct 
-{
-    char path[10];
-}RouteConfig;
-
-typedef struct 
-{
-    char filename[20];
-}LogConfig;
-
 
 typedef enum {
     LOG_DEBUG,
@@ -55,14 +35,6 @@ int epoll_fd = 0;
 int nfds = 0;
 FILE *log_file = NULL;
 FILE *access_log_file = NULL;
-char *json_file_name = "server.json";
-
-ServerCongif server_config;
-RouteConfig get_config;
-RouteConfig post_config;
-LogConfig access_log_config;
-LogConfig server_log_config;
-
 
 void log_message(LogLevel level, const char *format, ...);
 void log_access(const char *client_ip, const char *request);
@@ -72,171 +44,13 @@ void send_response(int conn_fd, int status_code, const char *filename);
 void send_file(int client_socket, const char *filename);
 void search_response(int connfd, int status_code, const char *filename, char *keyword);
 void search_file(int client_socket, const char *filename, char *keyword);
-void json_read(char *json_filename);
-int find(char *user);
+
 
 int sigint_flag = 0;
 void sigint_handler(int sig) {
     log_message(LOG_INFO, "[srv] SIGINT is coming!\n");
     sigint_flag = 1;
 }
-
-
-
-
-
-void json_read(char *json_filename) {
-    FILE *json = fopen(json_filename, "rb");
-    if (!json) {
-        perror("Error opening JSON file");
-        return;
-    }
-
-    char line[100];
-    
-	
-    while (fgets(line, sizeof(line), json) != NULL) {
-    	
-    	line[35] = '\0';
-    	
-        if (strstr(line, "host"))
-        {
-            char temp[36];
-            strcpy(temp, line);
-            int s;
-            for (int i = 0; i < 36; i++)
-            {
-                if (temp[i] == ':')
-                {
-                    s = i;
-                    s += 3;
-                    break;
-                }
-            }
-            for (int i = s; i < 36; i++)
-            {   
-                if(temp[i] == '"'){
-                    server_config.host[i] = '\0';
-                    break;
-                }
-                server_config.host[i - s] = temp[i];
-            }
-        }else if (strstr(line, "port"))
-        {
-            char temp[36];
-            strcpy(temp, line);
-            int s;
-            for (int i = 0; i < 36; i++)
-            {
-                if (temp[i] == ':')
-                {
-                    s = i;
-                    s += 3;
-                    break;
-                }
-            }
-            for (int i = s; i < 36; i++)
-            {   
-                if(temp[i] == '"'){
-                    server_config.port[i] = '\0';
-                    break;
-                }
-                server_config.port[i - s] = temp[i];
-            }
-        }else if (strstr(line, "getpath"))
-        {
-            char temp[36];
-            strcpy(temp, line);
-            int s;
-            for (int i = 0; i < 36; i++)
-            {
-                if (temp[i] == ':')
-                {
-                    s = i;
-                    s += 3;
-                    break;
-                }
-            }
-            for (int i = s; i < 36; i++)
-            {   
-                if(temp[i] == '"'){
-                    get_config.path[i] = '\0';
-                    break;
-                }
-                get_config.path[i - s] = temp[i];
-            }
-        }else if (strstr(line, "postpath"))
-        {
-            char temp[36];
-            strcpy(temp, line);
-            int s;
-            for (int i = 0; i < 36; i++)
-            {
-                if (temp[i] == ':')
-                {
-                    s = i;
-                    s += 3;
-                    break;
-                }
-            }
-            for (int i = s; i < 36; i++)
-            {   
-                if(temp[i] == '"'){
-                    post_config.path[i] = '\0';
-                    break;
-                }
-                post_config.path[i - s] = temp[i];
-            }
-        }else if (strstr(line, "serverlog"))
-        {
-            char temp[36];
-            strcpy(temp, line);
-            int s;
-            for (int i = 0; i < 36; i++)
-            {
-                if (temp[i] == ':')
-                {
-                    s = i;
-                    s += 3;
-                    break;
-                }
-            }
-            for (int i = s; i < 36; i++)
-            {   
-                if(temp[i] == '"'){
-                    server_log_config.filename[i] = '\0';
-                    break;
-                }
-                server_log_config.filename[i - s] = temp[i];
-            }
-        }else if (strstr(line, "accesslog"))
-        {
-            char temp[36];
-            strcpy(temp, line);
-            int s;
-            for (int i = 0; i < 36; i++)
-            {
-                if (temp[i] == ':')
-                {
-                    s = i;
-                    s += 3;
-                    break;
-                }
-            }
-            for (int i = s; i < 36; i++)
-            {   
-                if(temp[i] == '"'){
-                    access_log_config.filename[i] = '\0';
-                    break;
-                }
-                access_log_config.filename[i - s] = temp[i];
-            }
-        }
-        
-    }
-    fclose(json);
-}
-
 
 void send_file(int client_socket, const char *filename) {
     FILE *file = fopen(filename, "rb");
@@ -264,9 +78,8 @@ void handle_request(int conn_fd) {
     sscanf(request, "%9s %49s %9s", method, path, http_version);
 
 	char real_path[60];
-    sprintf(real_path, ".%s%s", get_config.path, path);
+    sprintf(real_path, "./blog%s", path);
 	
-    
     log_access("127.0.0.1", request);
     
 
@@ -331,26 +144,7 @@ void handle_request(int conn_fd) {
             }
         }
     }else
-    {   
-        if(!strstr(request, "Authorization")){
-            send_response(conn_fd, 401, NULL);
-        }else {
-            strtok(request, "\n");
-            char *basic;
-            while (request != NULL)
-            {
-                basic = strtok(NULL, "\n");
-                if (strstr(basic, "Authorization")) {
-				    break; 
-				}
-            }
-			
-            if (!find(basic))
-            {
-                send_response(conn_fd, 403, NULL);
-            }
-        }
-
+    {
         if(strncmp(method, "GET", 3) != 0){
             send_response(conn_fd, 501, NULL);
         } else{
@@ -363,24 +157,7 @@ void handle_request(int conn_fd) {
     }
 }
 
-int find(char *user){
-    FILE *fp = fopen("user.txt", "r");
-    char line[1024];
-	
-	user[strlen(user)-1] = '\0';
-    while (fgets(line, 1024, fp) != NULL)
-    {	
-    	
-        if (strstr(line, user))
-        {	
-            return 1;
-        }
-        
-        return 0;
-    }
-    
-    fclose(fp);
-}
+
 
 void search_response(int conn_fd, int status_code, const char *filename, char *keyword){
     const char *status_message = (status_code == 200) ? "OK" : "Not Found";
@@ -454,16 +231,6 @@ void send_response(int conn_fd, int status_code, const char *filename) {
     const char *status_message = (status_code == 200) ? "OK" : "Not Found";
     const char *content_type = "text/plain";
     char response[1024];
-
-    if (status_code == 401)
-    {
-        status_message = "Unauthorized\r\nWWW-Authenticate: Basic";
-    }
-    
-    if (status_code == 403)
-    {
-        status_message = "Forbidden";
-    }
 
     if (status_code == 200 && filename) {
         if (strstr(filename, ".html")) {
@@ -542,20 +309,16 @@ void log_access(const char *client_ip, const char *request) {
     fflush(access_log_file);
 }
 
-int main() {
-    
-
-    json_read(json_file_name);
+int main(int argc, char *argv[]) {
+    ip_address = argv[1];
+    port = argv[2];
 	
-    ip_address = server_config.host;
-    ip_address[strlen(server_config.host)] = '\0';
-    port = server_config.port;
-    port[strlen(server_config.port)] = '\0';
+	printf("%s\n", ip_address);
+	printf("%s\n", port);
+	
+    log_file = fopen("server.log", "a");
+    access_log_file = fopen("access.log", "a");
 
-    log_file = fopen(server_log_config.filename, "a");
-    access_log_file = fopen(access_log_config.filename, "a");
-    
-    
     struct sigaction act;
     act.sa_flags = 0;
     act.sa_handler = sigint_handler;
@@ -567,8 +330,7 @@ int main() {
     struct sockaddr_in srv_address;
     memset(&srv_address, 0, sizeof(srv_address));
     srv_address.sin_family = AF_INET;
-	
-	
+
     if (inet_pton(AF_INET, ip_address, &srv_address.sin_addr.s_addr) < 0) {
         log_message(LOG_ERROR, "inet_pton error");
         exit(EXIT_FAILURE);
@@ -578,19 +340,15 @@ int main() {
         log_message(LOG_ERROR, "bind error");
         exit(EXIT_FAILURE);
     }
-	
-	printf("%ld\n", strlen(ip_address));
+
     listen(listen_fd, 5);
     log_message(LOG_INFO, "[srv] server[%s:%s] is initializing!", ip_address, port);
-    
-	printf("ok\n");
+
     int conn_fd;
     struct sockaddr_in cli_address;
     socklen_t cli_address_len = sizeof(cli_address);
     log_message(LOG_INFO, "[srv] Server has initialized!");
-    
-	printf("ok\n");
-	
+
     epoll_fd = epoll_create1(0);
     if (epoll_fd < 0) {
         log_message(LOG_ERROR, "epoll_create1");
@@ -604,8 +362,7 @@ int main() {
         log_message(LOG_ERROR, "epoll_ctl");
         exit(EXIT_FAILURE);
     }
-	
-	
+
     while (!sigint_flag) {
         int n = epoll_wait(epoll_fd, events, MAX_EVENTS, -1);
 
